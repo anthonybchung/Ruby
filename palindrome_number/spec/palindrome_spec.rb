@@ -44,4 +44,12 @@ RSpec.describe 'array' do
   it 'will return false if number is NOT palindrome' do
     expect(is_palindrome(12345)).to eq(false)
   end
+
+  it 'will return false if number is 0' do
+    expect(is_palindrome(0)).to eq(true)
+  end
+
+  it 'will return false if number is 10' do
+    expect(is_palindrome(10)).to eq(false)
+  end
 end

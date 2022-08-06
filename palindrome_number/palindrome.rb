@@ -29,7 +29,6 @@ end
 def is_two_sub_equal(sub1,sub2)
   str1 = sub1.join("")
   str2 = sub2.reverse.join("")
-
   if(str1 == str2)
     ans = true
   else
@@ -41,8 +40,13 @@ end
 
 def is_palindrome(x)
     arr = x.to_s.split("")
-    first = first_array(arr)
-    second = second_array(arr)
-    return is_two_sub_equal(first,second)
+    if(arr.length() != 1)
+      first = first_array(arr)
+      second = second_array(arr)
+      ans =  is_two_sub_equal(first,second)
+    else
+      ans = true
+    end
+    return ans
 end
 
