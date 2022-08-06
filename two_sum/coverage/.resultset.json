@@ -1,0 +1,66 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/abchung/Desktop/Ruby/two_sum/spec/two_sum_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/abchung/Desktop/Ruby/two_sum/main.rb": {
+        "lines": [
+          1,
+          3,
+          4,
+          null,
+          4,
+          4,
+          4,
+          3,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          5,
+          5,
+          null,
+          null,
+          1,
+          5,
+          5,
+          8,
+          4,
+          null,
+          4,
+          null,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1659771981
+  }
+}
