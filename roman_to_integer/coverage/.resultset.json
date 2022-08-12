@@ -1,23 +1,11 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/abchung/Desktop/Ruby/palindrome_number/spec/palindrome_spec.rb": {
+      "/Users/abchung/Desktop/Ruby/roman_to_integer/spec/roman_to_integer_spec.rb": {
         "lines": [
           1,
           null,
           1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null,
           1,
           1,
           null,
@@ -60,63 +48,43 @@
           null
         ]
       },
-      "/Users/abchung/Desktop/Ruby/palindrome_number/palindrome.rb": {
+      "/Users/abchung/Desktop/Ruby/roman_to_integer/roman_to_integer.rb": {
         "lines": [
           1,
-          14,
-          14,
-          5,
-          null,
-          9,
-          null,
-          14,
           null,
           null,
           null,
-          1,
-          6,
-          6,
           null,
           null,
-          1,
-          6,
-          6,
-          6,
-          2,
           null,
-          4,
-          null,
-          6,
           null,
           null,
           null,
           1,
-          6,
-          6,
-          6,
-          3,
           null,
           3,
+          3,
+          3,
+          3,
+          3,
+          3,
+          8,
+          8,
+          8,
+          8,
           null,
-          null,
-          6,
-          null,
-          null,
-          1,
-          5,
-          5,
+          8,
           4,
+          null,
           4,
-          4,
           null,
-          1,
+          8,
           null,
-          5,
-          null,
+          3,
           null
         ]
       }
     },
-    "timestamp": 1659819946
+    "timestamp": 1660297955
   }
 }
